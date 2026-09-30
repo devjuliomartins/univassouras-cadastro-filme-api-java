@@ -45,5 +45,5 @@ Content-Type: application/json
 {
   "titulo": "Interestelar",
   "genero": "Ficção Científica",
-  "ano": 2014
+  "anoLancamento": 2014
 }
